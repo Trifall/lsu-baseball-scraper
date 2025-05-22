@@ -10,6 +10,10 @@ A Python script that scrapes and collects LSU baseball statistics from the offic
 - Organizes data by season for easy analysis
 - Logs to both console and file
 
+## Note
+
+This script runs sequentially, but it could be modified to run all of the scraping in parallel. I did not do this because I did not want to overload the LSU Sports website with too many requests and I don't know how many requests they allow or can handle.
+
 ## Requirements
 
 - Python 3.6+
