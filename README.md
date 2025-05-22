@@ -79,17 +79,17 @@ The script generates a JSON file (`lsu_baseball_box_scores.json`) with the follo
 
 ```json
 {
-	"2025": [
-		{
-			"date": "Feb 14, 2025",
-			"location": "Baton Rouge, LA",
-			"result": "W, 11-3",
-			"url": "https://static.lsusports.net/assets/docs/bb/25stats/021425.htm",
-			"format": "HTML"
-		}
-		// More games...
-	]
-	// More seasons...
+ "2025": [
+  {
+   "date": "Feb 14, 2025",
+   "location": "Baton Rouge, LA",
+   "result": "W, 11-3",
+   "url": "https://static.lsusports.net/assets/docs/bb/25stats/021425.htm",
+   "format": "HTML"
+  }
+  // More games...
+ ]
+ // More seasons...
 }
 ```
 
